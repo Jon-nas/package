@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: pakeage
+Version: 0.0.1
+Summary: Image processing package using skimage.
+Home-page: https://github.com/Jon-nas/package
+Author: Jonas
+Description-Content-Type: text/markdown
+
+
+# Pacote de Processamento de Imagens
+#### Tecnologia: Python
+
+### DescriÃ§Ã£o
+O pacote de processamento de imagens Ã© utilizado para:
+    Processamento:
+        - CorrespondÃªncia de histograma;
+        - Similaridade estrutural;
+        - Redimensionar imagem.
+
+    UtilitÃ¡rios:
+        - Ler imagem;
+        - Salvar imagem;
+        - Plotar imagem;
+        - Resultado do grÃ¡fico;
+        - Plotar histograma.
+
+## InstalaÃ§Ã£o
+
+Use o gerenciador de pacotes [pip](https://pip.pypi.io/en/stable/) para instalar o package
+
+```bash
+pip install image_processing
+```
+
+
+## Autor
+Jonas
+
+
+## LicenÃ§a
+[MIT](https://choosealicense.com/licenses/mit/)
