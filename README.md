@@ -2,7 +2,7 @@
 # Pacote de Processamento de Imagens
 #### Tecnologia: Python
 
-### Descrição
+### Description
 O pacote de processamento de imagens é utilizado para:
     Processamento:
         - Correspondência de histograma;
@@ -16,7 +16,7 @@ O pacote de processamento de imagens é utilizado para:
         - Resultado do gráfico;
         - Plotar histograma.
 
-## Instalação
+## Install
 
 Use o gerenciador de pacotes [pip](https://pip.pypi.io/en/stable/) para instalar o package
 
@@ -29,5 +29,5 @@ pip install image_processing
 Jonas
 
 
-## Licença
+## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
