@@ -4,6 +4,7 @@
 
 ### Description
 O pacote de processamento de imagens é utilizado para:
+
     Processamento:
         - Correspondência de histograma;
         - Similaridade estrutural;
@@ -24,6 +25,12 @@ Use o gerenciador de pacotes [pip](https://pip.pypi.io/en/stable/) para instalar
 pip install image_processing
 ```
 
+## Como usar em qualquer projeto
+
+```python
+from image-processing-test.processing import combination
+combination.find_difference(image1, image2)
+```
 
 ## Autor
 Jonas
